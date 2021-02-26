@@ -81,7 +81,7 @@ describe('Airport', () => {
     // INSTRUCTION: Do a commit before uncommenting the next test.
     // INSTRUCTION: Talk to your coach before moving on.
 
-    // THE FOURTH TEST
+    // THE FIFTH TEST
 
     // describe('land', () => {
     //   it('does not add a plane to the hangar', () => {
@@ -97,7 +97,7 @@ describe('Airport', () => {
 
     // INSTRUCTION: Do a commit before uncommenting the next test.
 
-    // THE FIFTH TEST
+    // THE SIXTH TEST
 
     // describe('takeoff', () => {
     //   it('does not remove a plane from the hangar', () => {
